@@ -1,0 +1,32 @@
+---
+manufacturer: Nokia
+model: 7705 SAR-8 V2
+slug: nokia-7705-sar-8-v2
+part_number: 3HE02773
+airflow: left-to-right
+u_height: 2
+is_full_depth: false
+front_image: false
+rear_image: false
+console-ports:
+  - name: Console
+    type: rj-45
+module-bays:
+  - name: Slot 1 - CSM 1
+    position: 1/1
+  - name: Slot 1 - CSM 2
+    position: 1/2
+  - name: Slot 1 - MDA 1
+    position: 1/1
+  - name: Slot 1 - MDA 2
+    position: 1/2
+  - name: Slot 1 - MDA 3
+    position: 1/3
+  - name: Slot 1 - MDA 4
+    position: 1/4
+  - name: Slot 1 - MDA 5
+    position: 1/5
+  - name: Slot 1 - MDA 6
+    position: 1/6
+  - name: Fan Tray 1
+    position: '1'
